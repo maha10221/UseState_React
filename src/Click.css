@@ -1,0 +1,16 @@
+.click{
+    text-align: center;
+    color: green;
+    font-size: 7vh;
+  }
+  .click button{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+
+  }
+  .click button:hover{
+    background-color:green;
+  }
